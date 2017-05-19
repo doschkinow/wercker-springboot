@@ -50,9 +50,9 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>Wercker-OCCS SpringBoot demo. Current server time: <%= new java.util.Date() %> <br>
+              <br>Wercker-OCCS SpringBoot demo for DRV. Current server time: <%= new java.util.Date() %> <br>
               <br>
-              <p>
+              <p> 
                 <span style="color: #333; text-decoration: none">Build faster and release often with Wercker's Docker-Native 
           continuous integration platform for developing, building and delivering your applications.</span>
               </p>
