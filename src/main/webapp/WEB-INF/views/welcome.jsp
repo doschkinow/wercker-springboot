@@ -37,7 +37,7 @@
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
           <a style="color: #ffffff">Oracle Container Cloud Service</a>&nbsp;+
-            <a style="color: #ffffff">Wercker for DRV</a>
+            <a style="color: #ffffff">Wercker</a>
         </h1>
       </div>
 
